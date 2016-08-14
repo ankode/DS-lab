@@ -1,4 +1,8 @@
+/*author- Ankush Anshuman
 
+sum of elements in array
+
+*/
 #include <stdio.h>
 #include <stdlib.h>
 

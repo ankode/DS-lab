@@ -1,3 +1,7 @@
+/*author- Ankush Anshuman
+
+sum of two matrix
+*/
 #include <stdio.h>
 #include <stdlib.h>
 

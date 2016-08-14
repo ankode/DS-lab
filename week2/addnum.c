@@ -1,4 +1,8 @@
+/*author- Ankush Anshuman
 
+sum of two elements
+
+*/
 
 #include <stdio.h>
 #include <stdlib.h>

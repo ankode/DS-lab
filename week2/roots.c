@@ -1,4 +1,8 @@
+/*author- Ankush Anshuman
 
+roots if quadratic equation
+
+*/
 
 
 #include <stdio.h>

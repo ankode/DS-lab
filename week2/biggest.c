@@ -1,4 +1,8 @@
+/*author- Ankush Anshuman
 
+biggest elements in array
+
+*/
 
 #include <stdio.h>
 #include <stdlib.h>

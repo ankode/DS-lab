@@ -1,4 +1,8 @@
+/*author- Ankush Anshuman
 
+pointer passing and returning from function
+
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
