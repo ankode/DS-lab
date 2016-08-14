@@ -1,2 +1,2 @@
 # DS-lab
-Program written for Data Structure Lab
+Program written for Data Structure Lab.
