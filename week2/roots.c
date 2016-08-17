@@ -1,6 +1,6 @@
 /*author- Ankush Anshuman
 
-roots if quadratic equation
+roots of quadratic equation
 
 */
 
