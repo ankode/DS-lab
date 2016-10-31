@@ -11,12 +11,18 @@ sum of two elements
 int main()
 {
     int m,n,*p,*q;
-    p=&m;
+    p = &m;
     q=&n;
-    printf("enter the two numbers :\n");
+	do{
+    printf("Enter the two numbers :\n");
     scanf("%d%d",p,q);
 	int sum=*p+*q;
         
         printf("sum is %d", sum);
+		printf("to add more no. enter 1 else enter 0");
+		int flag;
+		scanf(%"d",flag);
+	}while(flag!=0);
+	
     return 0;
 }
