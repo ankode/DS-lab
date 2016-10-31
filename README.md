@@ -1,3 +1,3 @@
 # DS-lab
-Program written for Data Structure Lab.
-this is with reapect to the academic curriculum
+1. The Program is written for Data Structure Lab.
+2. This is with respect to the academic curriculum.
